@@ -1,0 +1,6 @@
+{
+  "name": "D'ARCO - Voz & Natureza",
+  "description": "Estúdio de locução nordestina para D'ARCO: Deixe a natureza cuidar de você. Transforme textos em áudio com o sotaque, ritmo e calor do Nordeste brasileiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
